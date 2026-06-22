@@ -29,6 +29,3 @@ Cada objeto de estudiante maneja la siguiente estructura JSON básica:
   "correo": "mercedes.santos@gmail.com"
 }
 
----
-## ©️ Autor
-| **Reina Díaz** --API Estudiantes
